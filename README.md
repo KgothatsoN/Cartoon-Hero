@@ -11,4 +11,4 @@ Project Contents:
 1. Index.html
 2. Cascade Style Sheet
 3. Images
-4. [Wireframes](https://github.com/KgothatsoN/Cartoon-Hero/blob/master/assets/images/Wireframes.png)
+4. [Wireframes](https://github.com/KgothatsoN/Cartoon-Hero/blob/master/assets/wireframes/Wireframes.png)
