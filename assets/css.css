@@ -17,6 +17,7 @@ header h1
 h1, h2, h3, h4, h5, h6
 {
 	font-family: 'Kaushan Script', cursive;
+	font-size: 30px;
 }
 header img
 {
@@ -67,20 +68,17 @@ main img
 
 }
 
-footer
+h2, h3, h5, h6
 {
-	background-color: black;
-	text-align: center;
-	color: white;
-	padding: 25px;
-	position: absolute;
-	bottom: 0;
-	width: 100%
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1px;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
 }
 h4
 {	 
 	line-height: 0px;
-	font-size: 30px;
 	display: block;
     margin-block-start: 1em;
     margin-block-end: 1em;
@@ -88,17 +86,6 @@ h4
     margin-inline-end: 0px;
 }
 
-
-
-h3, h5, h6
-{
-    display: block;
-    font-size: 30px;
-    margin-block-start: 1em;
-    margin-block-end: 1px;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
-}
 ul
 {
 	margin-block-start: 1px;
@@ -111,4 +98,14 @@ a
 a:hover
 {
 	color: purple;
+}
+footer
+{
+	background-color: black;
+	text-align: center;
+	color: white;
+	padding: 25px;
+	position: absolute;
+	bottom: 0;
+	width: 100%
 }
