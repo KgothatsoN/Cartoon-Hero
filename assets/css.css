@@ -99,3 +99,13 @@ a:hover
 {
 	color: purple;
 }
+footer
+{
+	background-color: black;
+	text-align: center;
+	color: white;
+	padding: 25px;
+	position: absolute;
+	bottom: 0;
+	width: 100%
+}
